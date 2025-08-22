@@ -1,4 +1,4 @@
-# Equilibrium Compression in Interactive Competitive Systems
+# Co-evolutionary Equilibrium Compression in Competitive Systems
 Quantitative Approach to Game Balancing using Nash Equilibirum concentration and Variance compression to ensure strategic entropy and fix soft dominance problem
 
 ## Quantifying Game Balance
