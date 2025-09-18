@@ -2,7 +2,8 @@
 Quantitative Approach to Game Balancing using Nash Equilibirum concentration and Variance compression to ensure strategic entropy and fix soft dominance problem
 
 ## Quantifying Game Balance
-### Systemic Boringness
+### [Systemic Boringness](./00.quantify-systemic-boringness.md)
+Using Shannon Entropy to quantify strategic entropy within a system, and inferring "boringness" as inverse function of the variety in strategic entropy.
 
 ### Variance Compression
 
